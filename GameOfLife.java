@@ -13,7 +13,7 @@ public class GameOfLife implements Board {
             step();
         }
     }
-
+//I added a new method
     public void step() {
         int[][] newBoard = new int[board.length][board[0].length];
         
