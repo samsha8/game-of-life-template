@@ -30,7 +30,7 @@ public class GameOfLife implements Board {
         board = newBoard;
         print();
     }
-
+// i added a new method
     public int countNeighbors(int x, int y) { 
         int count = 0;
         for (int i = -1; i <= 1; i++) {
