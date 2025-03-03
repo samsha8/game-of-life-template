@@ -81,3 +81,4 @@ public class GameOfLife implements Board {
 
     }
 }
+//I added an int count 
